@@ -1,2 +1,2 @@
-# g4g_git_training_repository
-Repository for Girls4Girls Git workshop
+# G4G git training
+Training repository for Girls4Girls event Git workshop
